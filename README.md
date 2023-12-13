@@ -7,7 +7,7 @@
 </h3>
 <ul>
     <li>
-        R7 5800HS with Radeon Graphicks
+        R7 5800HS with Radeon Graphics
     </li>
     <li>
         1 TB SAMSUNG MZVLQ1T0HBLB-00B00
